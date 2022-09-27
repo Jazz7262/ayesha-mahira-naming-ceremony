@@ -28,7 +28,11 @@ function CustomModel() {
                 <div className="modal-body">
                     <p>From</p>
                     <span className="modal-description">
-                        Mr. & Mrs. Shujat Ahmed
+                        Mr. & Mrs. Shahid Ahmed
+                    </span>
+                    <p>and</p>
+                    <span className="modal-description">
+                        Mr. & Mrs. Abdul Farooq
                     </span>
                 </div>
                 <div className="modal-footer">
