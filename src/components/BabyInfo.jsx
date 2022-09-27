@@ -104,9 +104,9 @@ function BabyInfo() {
                     <div className="info">
                         <h3>* Ayesha Mahira *</h3>
                         <h5 className="dob">Date of Birth: 01/09/2022.</h5>
-                        <h4>D/o. Mrs. & Mr. Shujat Ahmed</h4>
-                        <h5>Grand D/o. Mrs. & Mr. Shahid Ahmed</h5>
-                        <h5>Maternal Grand D/o. Mrs. & Mr. Abdul Farooq</h5>
+                        <h4>D/o. Mr. & Mrs. Shujat Ahmed</h4>
+                        <h5>Grand D/o. Mr. & Mrs. Shahid Ahmed</h5>
+                        <h5>Maternal Grand D/o. Mr. & Mrs. Abdul Farooq</h5>
                     </div>
                 </div>
             </div>
